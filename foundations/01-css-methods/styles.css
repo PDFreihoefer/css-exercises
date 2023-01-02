@@ -1,0 +1,12 @@
+/* styles.css
+01-css-methods
+Created on: 01.02.23
+*/
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
