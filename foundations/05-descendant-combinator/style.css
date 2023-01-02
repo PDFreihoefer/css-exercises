@@ -1,0 +1,18 @@
+/* styles.css
+05-descendant-combinator
+Created on: 01.02.23
+*/
+
+/*
+The following also works
+div .text
+div p
+.container p
+*/
+
+.container .text{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
