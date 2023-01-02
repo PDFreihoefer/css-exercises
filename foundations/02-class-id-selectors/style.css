@@ -1,0 +1,29 @@
+/* styles.css
+02-class-id-selectors
+Created on: 01.02.23
+*/
+
+* {
+    font-size: 18px;
+}
+
+.odd {
+    background-color: #d87474;
+    /* quotes are used for values with whitespace */
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd.thirdRow {
+    font-size: 24px;
+}
+
+#secondRow {
+    color: rgb(36, 26, 179);
+    font-size: 36px;
+}
+
+#fourthRow {
+    background-color: hsl(115, 44%, 54%);
+    font-size: 24px;
+    font-weight: bold;
+}
