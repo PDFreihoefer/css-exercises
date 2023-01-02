@@ -1,0 +1,14 @@
+/* styles.css
+04-chaining-selectors
+Created on: 01.02.23
+*/
+
+.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
