@@ -1,0 +1,19 @@
+/* styles.css
+03-grouping-selectors
+Created on: 01.02.23
+*/
+
+.passiveButton,
+.assertiveButton {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.passiveButton {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.assertiveButton {
+    background-color: #d3d62e;
+}
